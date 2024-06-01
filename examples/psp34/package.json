@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@727-ventures/typechain-polkadot": "1.0.3",
-	"@727-ventures/typechain-types": "1.0.1",
+	"@727-ventures/typechain-types": "1.1.2",
     "@types/node": "^18.8.0",
     "ts-node": "^10.7.0",
     "typescript": "^4.9.5",
